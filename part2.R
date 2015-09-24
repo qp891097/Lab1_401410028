@@ -1,7 +1,8 @@
 x <- 1:100
-x <- x*x
-print(x)
+y <- x*x
+print(sum(y))
 ?iris
+?InsectSprays
 ?seq
 ?mean
 ?"stats"
